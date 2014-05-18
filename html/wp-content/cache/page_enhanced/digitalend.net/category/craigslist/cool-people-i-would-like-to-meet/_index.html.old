@@ -6,10 +6,10 @@
   <title>Cool people i would like to meet | DigitalEnd</title>
   <meta name="viewport" content="width=device-width, initial-scale=1">
 
-  <link rel="stylesheet" href="/wp-content/themes/digitalend/assets/css/main.min.css?ver=9880649384aea9f1ee166331c0a30daa">
-<script type='text/javascript' src='/wp-content/themes/digitalend/assets/js/vendor/modernizr-2.7.0.min.js'></script>
+  <link rel="stylesheet" href="http://digitalendcdn.digitalend.netdna-cdn.com/wp-content/themes/digitalend/assets/css/main.min.css?ver=9880649384aea9f1ee166331c0a30daa">
+<script type='text/javascript' src='http://digitalendcdn.digitalend.netdna-cdn.com/wp-content/themes/digitalend/assets/js/vendor/modernizr-2.7.0.min.js'></script>
 <script type='text/javascript' src='//ajax.googleapis.com/ajax/libs/jquery/1.11.0/jquery.min.js'></script>
-<script>window.jQuery || document.write('<script src="http://digitalend.net/wp-content/themes/digitalend/assets/js/vendor/jquery-1.11.0.min.js"><\/script>')</script>
+<script>window.jQuery || document.write('<script src="http://digitalendcdn.digitalend.netdna-cdn.com/wp-content/themes/digitalend/assets/js/vendor/jquery-1.11.0.min.js"><\/script>')</script>
 
   <link rel="alternate" type="application/rss+xml" title="DigitalEnd Feed" href="http://digitalend.net/feed/">
 </head>
@@ -469,7 +469,7 @@ The staff at his work are in on it. We pay them to make shit sandwiches, so that
   </div>
 </footer>
 
-<script type='text/javascript' src='/wp-content/themes/digitalend/assets/js/scripts.min.js?ver=0fc6af96786d8f267c8686338a34cd38'></script>
+<script type='text/javascript' src='http://digitalendcdn.digitalend.netdna-cdn.com/wp-content/themes/digitalend/assets/js/scripts.min.js?ver=0fc6af96786d8f267c8686338a34cd38'></script>
 
 </body>
 </html>
@@ -477,7 +477,8 @@ The staff at his work are in on it. We pay them to make shit sandwiches, so that
 <!-- Performance optimized by W3 Total Cache. Learn more: http://www.w3-edge.com/wordpress-plugins/
 
 Page Caching using disk: enhanced
-Database Caching 6/46 queries in 0.018 seconds using memcached
-Object Caching 1462/1643 objects using memcached
+Database Caching 4/25 queries in 0.006 seconds using memcached
+Object Caching 1346/1420 objects using memcached
+Content Delivery Network via digitalendcdn.digitalend.netdna-cdn.com
 
- Served from: digitalend.net @ 2014-05-17 16:38:34 by W3 Total Cache -->
+ Served from: digitalend.net @ 2014-05-18 11:31:07 by W3 Total Cache -->

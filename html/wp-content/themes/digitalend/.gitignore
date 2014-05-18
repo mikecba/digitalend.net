@@ -1,2 +1,6 @@
-assets/less/bootstrap/*
+node_modules
+node_modules/
+node_modules/.
 node_modules/*
+node_modules/*/*
+node_modules/*/*/*
